@@ -1,0 +1,15 @@
+@import url('../../../css-2');
+
+.and {
+  font-family: 'Scope One', serif;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: none;
+}
+
+.header__and {
+  line-height: 1.75;
+  min-width: 1.75em;
+  min-height: 1.75em;
+  letter-spacing: 0;
+}

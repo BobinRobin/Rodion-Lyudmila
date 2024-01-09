@@ -1,0 +1,10 @@
+@import url('../../../css-1');
+
+.section__label {
+  font-family: 'Pinyon Script', cursive;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0;
+  line-height: 1.5;
+  text-transform: lowercase;
+}
